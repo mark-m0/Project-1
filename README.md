@@ -2,7 +2,7 @@
 Group Project
 
 Our group seeks to compare the popularity of social media and how it has grown across various countries. We seek to answer the following questions:
--	Is there a relationship between netween countries and social media platforms (Instagram,Tiktok,Youtube)?
+-	Is there a relationship between countries and social media platforms (Instagram,Tiktok,Youtube)?
 - Is there a relationship between categories and engagement(Instagram,Tiktok,Youtube)?
 - Can we predict the relationship between category and engagement level (Instagram,Tiktok,Youtube)?
 - To predict the success of a social media platforms based upon followers (Instagram,Tiktok,Youtube)?
