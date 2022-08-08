@@ -2,11 +2,10 @@
 Group Project
 
 Our group seeks to compare the popularity of social media and how it has grown across various countries. We seek to answer the following questions:
--	Is there a relationship between countries and social media platforms (Instagram,Tiktok,Youtube)?
-- Is there a relationship between categories and engagement(Instagram,Tiktok,Youtube)?
-- Can we predict the relationship between category and engagement level (Instagram,Tiktok,Youtube)?
-- To predict the success of a social media platforms based upon followers (Instagram,Tiktok,Youtube)?
--	What can the data tell us about the correlation between categories and influencers between each platform?
+-	Is there a relationship between countries and social media platforms (Instagram, Youtube)?
+- Is there a relationship between categories and engagement(Instagram, Youtube)?
+- To predict the success on a social media platform based upon followers (Instagram, Youtube)?
+-	What can the data tell us about the correlation between categories and influencers between both platform?
 
 We are using an intial data source at the following link: https://www.kaggle.com/datasets/ramjasmaurya/top-1000-social-media-channels?select=social+media+influencers+-+youtube.csv
 
