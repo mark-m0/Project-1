@@ -19,3 +19,6 @@ Between myself (Mark Martinez) and my fellow group members (Danielle Bogan and C
 -	master of ceremonies - will be responsible for finalizing the presentation slides – Mark Martinez
 -	project management specialist - will be responsible for arranging group meetings, presenting reports, and keeping everyone moving – Danielle Bogan
 
+
+The following link contains our slideshow presentation.
+https://docs.google.com/presentation/d/1kovOseAdpsqEnWSj6gu-gyoXOWJhS3H11eX_p4rs2wI/edit?usp=sharing
