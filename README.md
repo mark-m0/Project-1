@@ -20,5 +20,12 @@ Between myself (Mark Martinez) and my fellow group members (Danielle Bogan and C
 -	project management specialist - will be responsible for arranging group meetings, presenting reports, and keeping everyone moving – Danielle Bogan
 
 
+After analyzing the initial data, the following represents the questions we seek to solve with our data.
+
+-Is there any dependency between subscribers and video counts? 
+-Which categories performed best in occurrence and engagement?
+-Which countries had the highest followers/subscribers?
+-Who were the top performers within the top category?
+
 The following link contains our slideshow presentation.
 https://docs.google.com/presentation/d/1kovOseAdpsqEnWSj6gu-gyoXOWJhS3H11eX_p4rs2wI/edit?usp=sharing
